@@ -34,10 +34,15 @@ theme = "vex-hugo"
 [menu]
     
   [[menu.main]]
-  name = "Feature"
+  name = "Features"
   URL = "feature"
   weight = 2
 
+  [[menu.main]]
+  name = "Cities"
+  URL = "city"
+  weight = 3
+  
 ########################### Default parameters ##########################
 [params]
 logo = ""

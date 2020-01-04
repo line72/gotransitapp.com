@@ -33,6 +33,13 @@ $(document).ready(function () {
         type: 'image'
     });
 
+    $(".city-slider").owlCarousel({
+        pagination: true,
+        autoPlay: 5000,
+        itemsDesktop: [1500, 4],
+        itemsDesktopSmall: [979, 3]
+    });
+
 
 
     // animation scroll js

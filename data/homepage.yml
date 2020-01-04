@@ -5,7 +5,64 @@ banner:
   content: "This is some text"
   image: "images/banner.png"
   button:
-    link : "#"
+    link: "#"
     label: "See Supported Cities"
 
+############################# Feature ############################
+features:
+  enable: true
+  title: "Core Features"
+  image: "images/features.png"
+
+  # feature at the left of the image
+  leftSide:
+    # feature item loop
+  - icon: "tf-ion-ios-alarm-outline"
+    title: "Real Time Tracking"
+    content: "See the exact location of buses along your favorite routes."
+
+  - icon: "tf-ion-ios-bell-outline"
+    title: "View Multiple Routes Simultaneously"
+    content: "Go Transit allows you to view all your favorite routes at once."
+
+  # feature at the right of the image
+  rightSide:
+    # feature item loop
+  - icon: "tf-ion-ios-alarm-outline"
+    title: "Quickly See Vehicle Status"
+    content: "Quickly see if a vehicle is running behind schedule and how many passengers are on board."
+
+  - icon: "tf-ion-ios-bell-outline"
+    title: "Open Source!"
+    content: "Go Transit is open source and released under the GPLv3"
+
+  - icon: "tf-ion-ios-cart-outline"
+    title: "No Ads, No Tracking!"
+    content: "None of the Go Transit app serve adds or track you!"
+
+#################################### Gallery ########################
+city:
+  enable: true
+  title: "Cities"
+  cityItem:
+    - name: "Birmingham, Alabama"
+      image: "images/birmingham-alabama.png"
+      url: "https://birmingham.gotransitapp.com"
+
+    - name: "Mobile, Alabama"
+      image: "images/birmingham-alabama.png"
+      url: "https://birmingham.gotransitapp.com"
+
+    - name: "Steamboat, Colorado"
+      image: "images/birmingham-alabama.png"
+      url: "https://birmingham.gotransitapp.com"
+
+    - name: "Indianapolis, Indiana"
+      image: "images/birmingham-alabama.png"
+      url: "https://birmingham.gotransitapp.com"
+
+    - name: "Raleigh, North Carolina"
+      image: "images/birmingham-alabama.png"
+      url: "https://birmingham.gotransitapp.com"
   
+
