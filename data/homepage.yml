@@ -1,0 +1,11 @@
+############################# banner ############################
+banner:
+  enable: true
+  title: "Go Transit"
+  content: "This is some text"
+  image: "images/banner.png"
+  button:
+    link : "#"
+    label: "See Supported Cities"
+
+  
