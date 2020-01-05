@@ -2,10 +2,10 @@
 banner:
   enable: true
   title: "Go Transit"
-  content: "This is some text"
-  image: "images/banner.png"
+  content: "Your free app for public transportation."
+  image: "images/app-icon.png"
   button:
-    link: "#"
+    link: "#city"
     label: "See Supported Cities"
 
 ############################# Feature ############################
@@ -49,20 +49,28 @@ city:
       image: "images/birmingham-alabama.png"
       url: "https://birmingham.gotransitapp.com"
 
-    - name: "Mobile, Alabama"
-      image: "images/mobile-alabama.png"
-      url: "https://mobile.gotransitapp.com"
-
-    - name: "Steamboat Springs, Colorado"
-      image: "images/steamboat-springs-colorado.png"
-      url: "https://steamboat.gotransitapp.com"
-
     - name: "Indianapolis, Indiana"
       image: "images/indianapolis-indiana.png"
       url: "https://indianapolis.gotransitapp.com"
+    - name: "Mobile, Alabama"
+      image: "images/mobile-alabama.png"
+      url: "https://mobile.gotransitapp.com"
 
     - name: "Raleigh, North Carolina"
       image: "images/raleigh-north-carolina.png"
       url: "https://raleigh.gotransitapp.com"
   
+    - name: "Steamboat Springs, Colorado"
+      image: "images/steamboat-springs-colorado.png"
+      url: "https://steamboat.gotransitapp.com"
+
+
+################################## call to action ###################
+cta:
+  enable : true
+  bgImage : "images/code.jpg"
+  title : "Get The Source Code"
+  content : "All Source code is available on github"
+  link: "https://github.com/line72/montclair"
+  linkTitle: "Get The Source Code"
 
