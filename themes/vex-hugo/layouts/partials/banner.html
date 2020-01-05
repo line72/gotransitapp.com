@@ -12,7 +12,7 @@
                   <h1 class="font-weight-bold mb-4 font-size-60">{{ .title | markdownify }}</h1>
                   <p class="mb-4">{{ .content | markdownify }}</p>
                   {{- with .button }}
-                  <a class="btn btn-main" href="{{ .link | absURL }}" role="button">{{ .label }}</a>
+                  <a class="btn btn-main" href="{{ .link }}" role="button">{{ .label }}</a>
                   {{- end }}
               </div>
           </div>
