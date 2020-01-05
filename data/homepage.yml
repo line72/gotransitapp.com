@@ -3,7 +3,7 @@ banner:
   enable: true
   title: "Go Transit"
   content: "Your free app for public transportation."
-  image: "images/app-icon.png"
+  image: "images/banner.png"
   button:
     link: "#city"
     label: "See Supported Cities"
