@@ -50,19 +50,19 @@ city:
       url: "https://birmingham.gotransitapp.com"
 
     - name: "Mobile, Alabama"
-      image: "images/birmingham-alabama.png"
-      url: "https://birmingham.gotransitapp.com"
+      image: "images/mobile-alabama.png"
+      url: "https://mobile.gotransitapp.com"
 
-    - name: "Steamboat, Colorado"
-      image: "images/birmingham-alabama.png"
-      url: "https://birmingham.gotransitapp.com"
+    - name: "Steamboat Springs, Colorado"
+      image: "images/steamboat-springs-colorado.png"
+      url: "https://steamboat.gotransitapp.com"
 
     - name: "Indianapolis, Indiana"
-      image: "images/birmingham-alabama.png"
-      url: "https://birmingham.gotransitapp.com"
+      image: "images/indianapolis-indiana.png"
+      url: "https://indianapolis.gotransitapp.com"
 
     - name: "Raleigh, North Carolina"
-      image: "images/birmingham-alabama.png"
-      url: "https://birmingham.gotransitapp.com"
+      image: "images/raleigh-north-carolina.png"
+      url: "https://raleigh.gotransitapp.com"
   
 
