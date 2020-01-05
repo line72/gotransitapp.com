@@ -48,7 +48,7 @@ theme = "vex-hugo"
 logo = ""
 home = "Home"
 # Meta data
-description = "This is meta description"
+description = "Go Transit App"
 author = "GoTransitApp"
 # copyright
 copyright = "Copyright 2019 &copy; Marcus Dillavou | All right reserved."

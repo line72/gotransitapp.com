@@ -17,11 +17,11 @@ features:
   # feature at the left of the image
   leftSide:
     # feature item loop
-  - icon: "tf-ion-ios-alarm-outline"
+  - icon: "tf-ion-android-bus"
     title: "Real Time Tracking"
     content: "See the exact location of buses along your favorite routes."
 
-  - icon: "tf-ion-ios-bell-outline"
+  - icon: "tf-ion-ios-shuffle"
     title: "View Multiple Routes Simultaneously"
     content: "Go Transit allows you to view all your favorite routes at once."
 
@@ -32,11 +32,11 @@ features:
     title: "Quickly See Vehicle Status"
     content: "Quickly see if a vehicle is running behind schedule and how many passengers are on board."
 
-  - icon: "tf-ion-ios-bell-outline"
+  - icon: "tf-ion-code"
     title: "Open Source!"
     content: "Go Transit is open source and released under the GPLv3"
 
-  - icon: "tf-ion-ios-cart-outline"
+  - icon: "tf-ion-ios-analytics"
     title: "No Ads, No Tracking!"
     content: "None of the Go Transit app serve adds or track you!"
 
