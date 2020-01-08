@@ -52,9 +52,14 @@ city:
     - name: "Indianapolis, Indiana"
       image: "images/indianapolis-indiana.png"
       url: "https://indianapolis.gotransitapp.com"
+
     - name: "Mobile, Alabama"
       image: "images/mobile-alabama.png"
       url: "https://mobile.gotransitapp.com"
+
+    - name: "Montgomery, Alabama"
+      image: "images/montgomery-alabama.png"
+      url: "https://montgomeryal.gotransitapp.com"
 
     - name: "Raleigh, North Carolina"
       image: "images/raleigh-north-carolina.png"
