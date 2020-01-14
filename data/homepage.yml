@@ -49,6 +49,10 @@ city:
       image: "images/birmingham-alabama.png"
       url: "https://birmingham.gotransitapp.com"
 
+    - name: "Huntsville, Alabama"
+      image: "images/huntsville-alabama.png"
+      url: "https://huntsville.gotransitapp.com"
+
     - name: "Indianapolis, Indiana"
       image: "images/indianapolis-indiana.png"
       url: "https://indianapolis.gotransitapp.com"
