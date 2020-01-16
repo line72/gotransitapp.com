@@ -45,9 +45,21 @@ city:
   enable: true
   title: "Cities"
   cityItem:
+    - name: "Akron, Ohio"
+      image: "images/akron-ohio.png"
+      url: "https://akron.gotransitapp.com"
+
+    - name: "Athens, Georgia"
+      image: "images/athens-georgia.png"
+      url: "https://athensga.gotransitapp.com"
+
     - name: "Birmingham, Alabama"
       image: "images/birmingham-alabama.png"
       url: "https://birmingham.gotransitapp.com"
+
+    - name: "Grand Rapids, Michigan"
+      image: "images/grand-rapids-michigan.png"
+      url: "https://grandrapids.gotransitapp.com"
 
     - name: "Huntsville, Alabama"
       image: "images/huntsville-alabama.png"
