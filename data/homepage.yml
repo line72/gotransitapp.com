@@ -69,6 +69,10 @@ city:
       image: "images/indianapolis-indiana.png"
       url: "https://indianapolis.gotransitapp.com"
 
+    - name: "Memphis, Tennessee"
+      image: "images/memphis-tennessee.png"
+      url: "https://memphis.gotransitapp.com"
+
     - name: "Mobile, Alabama"
       image: "images/mobile-alabama.png"
       url: "https://mobile.gotransitapp.com"
@@ -76,6 +80,10 @@ city:
     - name: "Montgomery, Alabama"
       image: "images/montgomery-alabama.png"
       url: "https://montgomeryal.gotransitapp.com"
+
+    - name: "Nashville, Tennessee"
+      image: "images/nashville-tennessee.png"
+      url: "https://nashville.gotransitapp.com"
 
     - name: "Raleigh, North Carolina"
       image: "images/raleigh-north-carolina.png"
