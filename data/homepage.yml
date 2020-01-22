@@ -85,6 +85,9 @@ city:
       image: "images/steamboat-springs-colorado.png"
       url: "https://steamboat.gotransitapp.com"
 
+    - name: "Tuscaloosa, Alabama"
+      image: "images/tuscaloosa-alabama.png"
+      url: "https://tuscaloosa.gotransitapp.com"
 
 ################################## call to action ###################
 cta:
