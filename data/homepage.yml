@@ -57,6 +57,10 @@ city:
       image: "images/birmingham-alabama.png"
       url: "https://birmingham.gotransitapp.com"
 
+    - name: "Columbus, Ohio"
+      image: "images/columbus-ohio.png"
+      url: "https://columbusoh.gotransitapp.com"
+
     - name: "Grand Rapids, Michigan"
       image: "images/grand-rapids-michigan.png"
       url: "https://grandrapids.gotransitapp.com"
