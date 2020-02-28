@@ -36,8 +36,13 @@ $(document).ready(function () {
     $(".city-slider").owlCarousel({
         pagination: true,
         autoPlay: 5000,
-        itemsDesktop: [1500, 4],
-        itemsDesktopSmall: [979, 3]
+        items: 4,
+        itemsDesktop: [1200, 3],
+        itemsDesktopSmall: [900, 2],
+        itemsTablet: [768, 2],
+        itemsTableSmall: false,
+        itemsMobile: [479, 1],
+        responsive: true
     });
 
 
